@@ -1,0 +1,4 @@
+d_yurkovskyi@cloudshell:~ (true-eye-377809)$ python hello_function.py
+Hello from the other siiiiiiiiiide!
+Hello, it's me, Martyna Lewinska
+3
