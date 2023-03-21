@@ -1,0 +1,8 @@
+|id |lastname|firstname |email                 |city  |age|
+|---|--------|----------|----------------------|------|---|
+|0  |Dmytro  |Yurkovskyi|d.yurkovskyi@gmail.com|London|26 |
+|2  |Olena   |Mamun     |d.mamun@gmail.com     |Krakow|22 |
+|1  |Andriy  |Babun     |d.babun@gmail.com     |Krakow|29 |
+|3  |Svitlana|Lalun     |d.lalun@gmail.com     |Krakow|19 |
+|4  |Harry   |Potter    |d.potter@gmail.com    |London|30 |
+|5  |Ron     |Weasley   |d.weasley@gmail.com   |London|31 |
